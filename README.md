@@ -1,3 +1,8 @@
+Insert api keys in 
+src/services
+    cryptoNewsApi.js
+    cryptoApi.js
+
 Run App:
     run using npm i
     then npm start
@@ -6,11 +11,11 @@ Built using:
     react - 17.0.2, html, css, js
     redux toolkit
     (all api are free)
-    https://rapidapi.com/Coinranking/api/coinranking1/
+   # https://rapidapi.com/Coinranking/api/coinranking1/
         - Get Global Stats
-    https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/
+   # https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/
         - Get News Search
-    https://www.coingecko.com/en/api/documentation
+   # https://www.coingecko.com/en/api/documentation
         - /coins/markets
 
 Snippets used:
