@@ -2,8 +2,8 @@
 # src/services, cryptoNewsApi.js, cryptoApi.js  <br><br>
 
 # Run App: <rb>
-#    run using npm i  <br>
-#    then npm start  <br>
+    run using npm i  <br>
+    then npm start  <br>
 
 Built using:<rb>
     react - 17.0.2, html, css, js  <br>
