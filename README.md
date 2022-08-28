@@ -1,9 +1,9 @@
 # Insert api keys in  <br>
 # src/services, cryptoNewsApi.js, cryptoApi.js  <br><br>
 
-# Run App: <rb>
-    run using npm i  <br>
-    then npm start  <br>
+# Run App: <br>
+    run using npm i  
+    then npm start  
 
 Built using:<rb>
     react - 17.0.2, html, css, js  <br>
