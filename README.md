@@ -14,7 +14,7 @@ Built using:<rb>
    •• https://rapidapi.com/Coinranking/api/coinranking1/  <br>
         - Get Global Stats  <br>
    •• https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/  <br>
-        - Get News Search  <br>>
+        - Get News Search  <br>
    •• https://www.coingecko.com/en/api/documentation  <br>
         - /coins/markets  <br>
 
