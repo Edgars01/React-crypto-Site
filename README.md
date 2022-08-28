@@ -1,16 +1,17 @@
-Insert api keys in  <br>
-src/services <rb>
-    cryptoNewsApi.js  <br>
-    cryptoApi.js  <br>
+# Insert api keys in  <br>
+# src/services <rb>
+#    cryptoNewsApi.js  <br>
+#    cryptoApi.js  <br>
 
-Run App: <rb>
-    run using npm i  <br>
-    then npm start  <br>
+# Run App: <rb>
+#    run using npm i  <br>
+#    then npm start  <br>
 
 Built using:<rb>
     react - 17.0.2, html, css, js  <br>
     redux toolkit  <br>
     (all api are free)  <br>
+#    GET YOUR API KEYS THERE <br>
    •• https://rapidapi.com/Coinranking/api/coinranking1/   •• <br>
         - Get Global Stats  <br>
    •• https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/  •• <br>
