@@ -1,30 +1,30 @@
-Insert api keys in  <rb>
+Insert api keys in  <br>
 src/services <rb>
-    cryptoNewsApi.js <rb>
-    cryptoApi.js <rb>
+    cryptoNewsApi.js  <br>
+    cryptoApi.js  <br>
 
 Run App: <rb>
-    run using npm i <rb>
-    then npm start <rb>
+    run using npm i  <br>
+    then npm start  <br>
 
 Built using:<rb>
-    react - 17.0.2, html, css, js <rb>
-    redux toolkit <rb>
-    (all api are free) <rb>
-   •• https://rapidapi.com/Coinranking/api/coinranking1/ <rb>
-        - Get Global Stats <rb>
-   •• https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/ <rb>
-        - Get News Search <rb>
-   •• https://www.coingecko.com/en/api/documentation <rb>
-        - /coins/markets <rb>
+    react - 17.0.2, html, css, js  <br>
+    redux toolkit  <br>
+    (all api are free)  <br>
+   •• https://rapidapi.com/Coinranking/api/coinranking1/  <br>
+        - Get Global Stats  <br>
+   •• https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/  <br>
+        - Get News Search  <br>>
+   •• https://www.coingecko.com/en/api/documentation  <br>
+        - /coins/markets  <br>
 
-Snippets used: <rb>
-    ES7+ React/Redux/React-Native snippets <rb>
+Snippets used:  <br>
+    ES7+ React/Redux/React-Native snippets  <br>
 
-Dependencies used:  <rb>
-     npm i antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2  <rb>
-     npm install react-router-dom --save <rb>
-     npm i axios <rb>
+Dependencies used:   <br>
+     npm i antd @ant-design/icons react-redux @reduxjs/toolkit axios chart.js html-react-parser millify moment react-chartjs-2   <br>
+     npm install react-router-dom --save <br>
+     npm i axios  <br>
 
-Design from:  <rb>
-    https://ant.design/components/overview/ <rb>
+Design from:   <br>
+    https://ant.design/components/overview/ <br>
