@@ -11,11 +11,11 @@ Built using:<rb>
     react - 17.0.2, html, css, js  <br>
     redux toolkit  <br>
     (all api are free)  <br>
-   •• https://rapidapi.com/Coinranking/api/coinranking1/  <br>
+   •• https://rapidapi.com/Coinranking/api/coinranking1/   •• <br>
         - Get Global Stats  <br>
-   •• https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/  <br>
+   •• https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/  •• <br>
         - Get News Search  <br>
-   •• https://www.coingecko.com/en/api/documentation  <br>
+   •• https://www.coingecko.com/en/api/documentation  •• <br>
         - /coins/markets  <br>
 
 Snippets used:  <br>
@@ -28,3 +28,6 @@ Dependencies used:   <br>
 
 Design from:   <br>
     https://ant.design/components/overview/ <br>
+![Screen Shot 2022-08-28 at 11 22 53](https://user-images.githubusercontent.com/79999452/187064875-2b4e5ba9-f156-40fe-81b8-0192b853e103.png)
+![Screen Shot 2022-08-28 at 11 23 04](https://user-images.githubusercontent.com/79999452/187064876-dada24ec-0884-4935-afe4-bb72afce2d64.png)
+![Screen Shot 2022-08-28 at 11 23 21](https://user-images.githubusercontent.com/79999452/187064878-dc0506ff-bdda-4bad-a2eb-c247343babff.png)
